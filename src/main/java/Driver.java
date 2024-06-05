@@ -15,6 +15,30 @@ public class Driver {
 		calculator.decrement();
 		
 		System.out.println("Current count:" + calculator.getCount());
+
+		calculator.increment();
+		
+		System.out.println("Current count:" + calculator.getCount());
+		
+		calculator.decrement();
+		
+		System.out.println("Current count:" + calculator.getCount());
+
+		calculator.increment();
+		
+		System.out.println("Current count:" + calculator.getCount());
+		
+		calculator.decrement();
+		
+		System.out.println("Current count:" + calculator.getCount());
+
+		calculator.increment();
+		
+		System.out.println("Current count:" + calculator.getCount());
+		
+		calculator.decrement();
+		
+		System.out.println("Current count:" + calculator.getCount());
 		
 	}
 
